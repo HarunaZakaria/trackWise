@@ -42,6 +42,7 @@ body{
 .list ul li a {
     text-decoration: none;
     font-size: 21px;
+    font-weight: 200;
     color: black;
     background-color: white;
     padding: 10px 20px;
